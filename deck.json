@@ -1,0 +1,1261 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "50695512-ab8d-11ea-89a6-10ddb19ecdf1",
+            "deck_config_uuid": "5677f598-ab8e-11ea-89a6-10ddb19ecdf1",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "220px-Acacia_caven_5.jpg",
+                "250px-Saxegothea_conspicua_3.jpg",
+                "2868-alerce1@2x.jpg",
+                "5147796800_12b80e3880_b.jpg",
+                "Araucaria-araucana-Araucaria-BFica-1024x768.jpg",
+                "Cipres-de-la-Cordillera.jpg",
+                "CipresCordillera1.2-1_.jpg",
+                "DZBCC3OW4AAKqWo.jpg",
+                "IMG_20200518_194448.jpg",
+                "Mañio-hojas-punzantes_Conos-femeninos-Carlos-Le-Quesne.jpg",
+                "Podocarpus_nubigena-flores.JPG",
+                "araucaria_004.jpg",
+                "blog-06.jpg",
+                "naturaleza-abh-marzo-7.jpg",
+                "paste-008398d3d4c89ccfba3f785082d2ef1436d42b37.jpg",
+                "paste-049fc104cfae067fb067e578671f87de775184b1.jpg",
+                "paste-066b69896f3d515990a44e7fc6ea4549f0775ac8.jpg",
+                "paste-06a35abe79f7d8d90354e515db5dc9266a6d3d22.jpg",
+                "paste-07bb4de2898cd78074b803344a54eaee486aa833.jpg",
+                "paste-086a793f18b6f8b9104b10e80763fcb3a801eb11.jpg",
+                "paste-08cc45465adc39cbd9692427ef7cfa828f14e100.jpg",
+                "paste-0bea1822c679237db519c620a15e268964cfd707.jpg",
+                "paste-0c851835e4214b35f7e563118f2b78363e30a692.jpg",
+                "paste-0cd3af560ee4788ab68629e5396735f7c3aab9bc.jpg",
+                "paste-0de23142490f3d071350373b802df29c75789a03.jpg",
+                "paste-0e1c03576e216ecff5aac40690b69d12b9e36c36.jpg",
+                "paste-0e3b4c17457211ce9e3284ffafe4de9a70f9525b.jpg",
+                "paste-0f2dce1d0e67f52b857f00e8e4a000c7a5da5777.jpg",
+                "paste-0f82be8ad74322fca5aeb8c06d6965ce17fd5c76.jpg",
+                "paste-107871f53d04d0f9819b8834f3f80baba0a926ce.jpg",
+                "paste-10cb7880a10d395413917e69ebd31c919ed8b370.jpg",
+                "paste-124737aceddaf405fae428607418c5690bd74acd.jpg",
+                "paste-140abc26e42ecea23410d55df9d543930807ed94.jpg",
+                "paste-14817eed5c216cebea7270e75b57adc19ae7ca96.jpg",
+                "paste-153273782bfd0e4451003eb15f5357fce7849c7e.jpg",
+                "paste-161faec128273137d17b19dbe484cf4c9db02bfb.jpg",
+                "paste-16f2ddaff404ecac19bd080f4af171a4272672b1.jpg",
+                "paste-186c06f0193e2211ee26e83d9ee9577a38d72157.jpg",
+                "paste-189585737f64e059cb5556388934c7a43771dfef.jpg",
+                "paste-18daa4a967994c2bfe60224c3e9c5336c9351e8f.jpg",
+                "paste-1a3a34b11795e02c4f9fd8fc83079637da6d5bf0.jpg",
+                "paste-1b339afcf4ad3fbac13ad31cf77f486cb0008d8d.jpg",
+                "paste-1be5b9d608e4748e739869cef7fd451329fb0299.jpg",
+                "paste-1c2644c4e27cd55ba29b74279691ac9ece5828f8.jpg",
+                "paste-1d069f66c526d110982425f87f5b9806d05957c6.jpg",
+                "paste-1d65d6bb916c662e0604ed8a3196e1d26cae1592.jpg",
+                "paste-1d6a8bec3c71b2cd691ccbc76126adcd9c51a7b9.jpg",
+                "paste-1ea4e858b0b8b47a85fdc8d861dd00053c463733.jpg",
+                "paste-21d06e5e3b3bf6ec04218b3420c15fb991c7d9af.jpg",
+                "paste-21f5d133e7bfcecdf146d8ccec08323a77ce06bd.jpg",
+                "paste-2269b42374bed82b40ccca0896d20b4e5840db59.jpg",
+                "paste-22ef119e9f9e4d4a85477e89755f87b182f2789a.jpg",
+                "paste-2377870ea8ea9c9abca2161b81260152d0445394.jpg",
+                "paste-2392a6365445476a20f1a3f50f02bd07fd0f4ad6.jpg",
+                "paste-2470888c251d27a0dc58dd18b0276400a7d75077.jpg",
+                "paste-24d446654a72b268b1cf7039918734f14e687f85.jpg",
+                "paste-25d35d96cf471403c0fbb798998b0144946ee096.jpg",
+                "paste-267e11d649f34cd7c7cef906ecd7e51be8cad32c.jpg",
+                "paste-2772267d92cdd5a30cb5de71ea0a4c5962566e5d.jpg",
+                "paste-291204df40fa4e85aa95af7e031eff248dbfd59a.jpg",
+                "paste-292df98fe4a2d524842e095b20a175353f53e7fd.jpg",
+                "paste-2b0d51f83182fd34fe50fd72480041dd7fe87b8b.jpg",
+                "paste-2cd171b84cc8ebf5c494ab1cefa95d09ba893bf1.jpg",
+                "paste-2d1df785c9ca32cc0a7d68f4881d0ef7cc2b6b6c.jpg",
+                "paste-30169af274010de108dd38ea47e02ffc0f22aa04.jpg",
+                "paste-31790fda5ad0cd0d5f547d7e2032b58110ee1511.jpg",
+                "paste-32589caf8441c6b2c39a06d07e69396d50f88834.jpg",
+                "paste-380aad532332feff8e733441294ea278a5b19f40.jpg",
+                "paste-39daba99dbd60e495b396b6460d026a021266e42.jpg",
+                "paste-3ad7a92c0b497b8bd45b8e84d2d89f60a8134bbf.jpg",
+                "paste-3bad70289a3dc504c7f4155e1c9694e6c6e7dda2.jpg",
+                "paste-3d8e5c2ebe372469f1e3140734029398f469b1a1.jpg",
+                "paste-3db1bfc9b9a192f8aba806d1e5613d4986130926.jpg",
+                "paste-3f0b13fbda44469280fc449747fbfac52c2dd5e7.jpg",
+                "paste-40854eaadc98124d24764f88b985efa36168775d.jpg",
+                "paste-423ff5d49a49fc90883ff8519af44e5adf74f39d.jpg",
+                "paste-4256e508ecb16181d0b8a61cc093626c65d5ac81.jpg",
+                "paste-4279bf4ea1b5025eca3382fcc3436767a51dcca5.jpg",
+                "paste-46505825b2f7bcc14ded3d3148cd63c832cba26e.jpg",
+                "paste-472e9f296e721fe3ad3946ab36fbd1551040b0ba.jpg",
+                "paste-48ff72600a9dff23e286068574d0e2516b0b09a6.jpg",
+                "paste-492f8e481f853ef36c5dd74daece190c847e612b.jpg",
+                "paste-4bc86eeb0d4c552e0ec0979854fdc8cf1b8872fd.jpg",
+                "paste-4dc771d7148ff3aa1d82fd6c8ae94475e82567e2.jpg",
+                "paste-4dd38613a647baaa5d79ef6d2923ef1d03cdbbcd.jpg",
+                "paste-4e1c4be5c1f290bf1add37f78f94617f32e3f0c5.jpg",
+                "paste-4ff747d0c107188a48138469a8c239f7de0f0a41.jpg",
+                "paste-5132ddc44dfad0fcd79fff4144054fc951359bc6.jpg",
+                "paste-5510f85022a7c61eb7eb5b99608b3b2488281dac.jpg",
+                "paste-569b376e1b6b3327fc0df2273e40e2d0fbfa57c3.jpg",
+                "paste-5724537deba2aee16f4602f25123b0b5dd6f3d11.jpg",
+                "paste-57726164704b7ef2721e7c3472aa8f4a690f013a.jpg",
+                "paste-5876f41f409b6529a2de801fb66f755cb9f2f134.jpg",
+                "paste-596732df1b305c0eb2e2da180f56a2359e32fcc4.jpg",
+                "paste-5b0b477403646a4c5df2406626e53d5b608a5233.jpg",
+                "paste-5b32c551a8d1d74d7f580316e941f344934ab166.jpg",
+                "paste-5b4e427c8ff1cb4b3151a88bc1a4c7792534b588.jpg",
+                "paste-5c2645408ec4432dde67392050505c59565f0dc4.jpg",
+                "paste-5f88d787a68a270eb1d90ca8522096199a200369.jpg",
+                "paste-5fa9d6af5ec10b58e30264e6c4ae7aebadc39501.jpg",
+                "paste-61248f43981cdd1e583019745e941ec0368d614f.jpg",
+                "paste-6124bf3c2fe2c9124cbe3575615775c855298ebb.jpg",
+                "paste-62725385271034e51021b51f200ee6cff71b1300.jpg",
+                "paste-62a5003393871a53c01f459679ac7519d32d931e.jpg",
+                "paste-64113c4db37852f2b73dbbb6d43971d8e547b167.jpg",
+                "paste-646b7c90714a1f03a039c7d65cfc3cde7b4d885a.jpg",
+                "paste-648bc30e44dc808f6e5bc1e2c6c360b5c6d090dd.jpg",
+                "paste-69f52f4893d7429f5cc1d651ff70a4a9a9845b64.jpg",
+                "paste-6a0fda28ad331e8677b0281fe310377958821fed.jpg",
+                "paste-6a21390f3bfbc952c31bacc441a7cd9f74498b3a.jpg",
+                "paste-6b518b0eb6888475c0bf89090b1b8d53f7984e1c.jpg",
+                "paste-6f787f1c82bd189aa2c62801092e45e51b18d417.jpg",
+                "paste-6f823755d252c30779575226d18b784402708fbf.jpg",
+                "paste-6fdf28f750e5d322d09af858b540c308fc4d82ff.jpg",
+                "paste-7043f3662585286f64c9b9b3ef63ac104eac3155.jpg",
+                "paste-71817055a3aa242dfae81259c344cc55f7d2e3d3.jpg",
+                "paste-73e5458834ac981555f6e2987705fddef71e11d8.jpg",
+                "paste-771e7ba5edc7db6ae86dd2e971b1eec1b78e0e61.jpg",
+                "paste-796e36cc436b671d3e828284aa7c57e80c684f09.jpg",
+                "paste-7b842532306987dbc044957faab30c31664d737c.jpg",
+                "paste-7fad8d95e1dabf083f89cf3384173fb0846e24a5.jpg",
+                "paste-81369a6074fd2c5079719928345c767b4702bc2d.jpg",
+                "paste-826f20f6a672909b496f1afb2a5a54b15f509548.jpg",
+                "paste-82e40fe9066c21c6fbda7ff0a2cb0fe4537b79da.jpg",
+                "paste-840d236d23c3e00eb13a30884a9e29a37d48acfa.jpg",
+                "paste-843485cbecf2919c9c846cf0e5b64f7afeb7b1c2.jpg",
+                "paste-84c7ef1c39ec98ed3f8f51fac462e0e64785ddbf.jpg",
+                "paste-8661330d9aa4cb8c51701355c202d180597cb89c.jpg",
+                "paste-87fa57bba8769b184c7cf67b41c4d7eeb7a72cf1.jpg",
+                "paste-899bbd1e3ba2936259a287d75229bc709dc5eea1.jpg",
+                "paste-89bcf9d61508d1d062cb1a3834b158e9dba15bc3.jpg",
+                "paste-8b264683c7445f7d6979aff9fe8a50b26ee49a0d.jpg",
+                "paste-8bd503f8d48acc835bfd249c231e6979abb3a21d.jpg",
+                "paste-8be3385791abde14c725ce4da716c2d310f366bd.jpg",
+                "paste-8e9e2c84636a933fca732ebf15ca36c20e81b0ff.jpg",
+                "paste-8ef2e26dfd0ca2433931ffea00f1384d5ac8c393.jpg",
+                "paste-9088542495135ec7f9c640bf84c1a6a5a840c5b8.jpg",
+                "paste-9303705ddcc786dd6c5470357550fbd943b55554.jpg",
+                "paste-9357f0c483d61658cc855f0b8216638015d4c173.jpg",
+                "paste-967bf67f960fb517f0351259590cb904f2ddd64d.jpg",
+                "paste-99b9750532a34672f2e1a5c03ef788585de9575e.jpg",
+                "paste-9ae2c9be3f5e1d440289facfc46ab220e5f2fa5d.jpg",
+                "paste-9cc80ae22c1c131ebb2f7378977b08b84427c068.jpg",
+                "paste-a03215f4d996bdbd4b82fdb2cadff56a37f386a9.jpg",
+                "paste-a07ccd978ecca6a33520dada5e9f653f80bcdc60.jpg",
+                "paste-a2d65aa57d5df01327790f8e674c09560308fb73.jpg",
+                "paste-a2e9dd21507e12a2bc13a8345c30f9eafba25c4b.jpg",
+                "paste-a3e7a282d8a88267d12fd55dfad3f57f13f58d86.jpg",
+                "paste-a8058a809b1f03b13219ef77f8dccfecd9b7a069.jpg",
+                "paste-a8cdbe7d402d4006726e4a737440fc2688edcff5.jpg",
+                "paste-ac9017b1e82062ba974cf7a05ff51e9f9981848c.jpg",
+                "paste-acd555bd2184e2ebc09cf7563b86412241a45f82.jpg",
+                "paste-adcaac3242c8aeff6e9870c8a2df4ca18cd766fb.jpg",
+                "paste-ae1028def0c7f657f7c4b3c35af61f0ab22ddb08.jpg",
+                "paste-b0223fb0d320eb25d407239c5493620f67d9afe4.jpg",
+                "paste-b2d7ce53ae78f5c228ba1e12384e8800ee8e4b2b.jpg",
+                "paste-b6883bc84b6a50a7f9ac0050b2194be93ab8a095.jpg",
+                "paste-b7a92869528ef043768f032b687c43ff99df6793.jpg",
+                "paste-b89caa51e39a43d0cdf9fe01691e7aab9cb346f9.jpg",
+                "paste-b8c2c373342a57e157e0d000b5dd9f6c32b7631a.jpg",
+                "paste-b9e1d058a068e527d25d4538e1251106c5154e2e.jpg",
+                "paste-bb792c77584546f155dbc64163d050f8a5564b05.jpg",
+                "paste-bc46f9a773399828d611561f39b80c1fdbadadbd.jpg",
+                "paste-bd0deb186731d8162e44831e9302d799b72e940b.jpg",
+                "paste-bd8a1c7a6059bb00499269a7c1179c5da9836872.jpg",
+                "paste-bdeec9475086681ca45f4bc4c09610b58e8d3e0a.jpg",
+                "paste-be8f592cb4ade32cccd550460f74fdae3501ff74.jpg",
+                "paste-bea01a43ccdd782459bf3c044527b92694377037.jpg",
+                "paste-bf19fd69f65e633ac756053d21e4b53e532a73fa.jpg",
+                "paste-bf25947087bd33878079d1e3f46d355addefcfd0.jpg",
+                "paste-bf596e688610eebebdbda4968a1839ac6597d374.jpg",
+                "paste-c3ed5e53a3dd82c843dd551f9045250bcffefef5.jpg",
+                "paste-c4b8ba2f3606f554bd2de3d73abf12b11d3f1a16.jpg",
+                "paste-c5208597ad253c8fd7bedfc4fb8f8e9b4cbb54c9.jpg",
+                "paste-ca32a4762562fc6171cc4d2196c6eb66aeab5278.jpg",
+                "paste-cb6f3406878aa123539d4932ce7b1768f918c563.jpg",
+                "paste-cb8e094fc425c3b0525cbf19bf388c7d794ebd5a.jpg",
+                "paste-cc1caf1c76846a762bd9b0c2e05aeee40fbddbba.jpg",
+                "paste-cd09307573fbb2f232cb2bb02048067f0433c9f7.jpg",
+                "paste-cf24da58df90789fda70dd72554446b992e85dd8.jpg",
+                "paste-cf7214ab0f5cfc7c808ee8d1247c9c8abfc04ff7.jpg",
+                "paste-d29c7fc22ed30c492fba5cf44e9f7e3a976147df.jpg",
+                "paste-d2d2603a0799d93c17fc769c6a26182848088193.jpg",
+                "paste-d3ccc214180e8459e0d81ec44fb881d919d99ce1.jpg",
+                "paste-d6edac69708c4f609347b405f576208c770bb95d.jpg",
+                "paste-d70ce77e8d012f98d18ae1feb13c760503808897.jpg",
+                "paste-d8e0fec4f166cf1869a36d812ce904b2a27c58e8.jpg",
+                "paste-d9744d2be4cdfd240b3ab9b4902271cacb5ccfde.jpg",
+                "paste-d9aaf4009d82131eeec7ab5734ed1fba38ee370b.jpg",
+                "paste-d9c5635f3d485b2d13e40195704756dffdb4335a.jpg",
+                "paste-dc07b4f4b0c320b3d5b3734604bce375e1e1a765.jpg",
+                "paste-dc9e2f291dae666fee9b177911e8ce172a63a778.jpg",
+                "paste-df68379bd50dc5ecdfe099afdb624ca2eb7b6ac1.jpg",
+                "paste-e0835dc80e9b775684fdb2a92bdee0575cb1cd1a.jpg",
+                "paste-e0f6f00434762c6fd06e8d7f8a4e733a01805080.jpg",
+                "paste-e177083348f5bb0a378989db7e354dd40eff511b.jpg",
+                "paste-e4afc059c3c7c25b98734bd25d73487a4d7507aa.jpg",
+                "paste-e59a2c6f89a502a72beb8af6670e5490f62a6ee1.jpg",
+                "paste-e5a917c8fea041ca67a715a1c456e83f8412a399.jpg",
+                "paste-e65031a8d87bfff591049d863692e5e4906499a6.jpg",
+                "paste-e6c0c79466075217cb22024f6e02060fd7101055.jpg",
+                "paste-e779790407412df6a2e484d6ca43bef27f5031bd.jpg",
+                "paste-e82d95e83d81c9d6b70d17298214fbd5cf412e8f.jpg",
+                "paste-ecb76a37ed12ed56f62182898e42c7dbadec610c.jpg",
+                "paste-ed84bf1b37bd413b4aca45eb1aac06931684d727.jpg",
+                "paste-f03a027338dafcdaebf83bab1257c70f0451d02c.jpg",
+                "paste-f30d9b4e0bacc9ffc5f132411f931567d74e1a93.jpg",
+                "paste-f674cedb48f0bd9786bdb82440017af490ea8e6f.jpg",
+                "paste-f86b8c7d3843c07ef934faee68e4fecf141b93ec.jpg",
+                "paste-f8b42d68433cbd2b90617db2c367da9500ab0fc5.jpg",
+                "paste-faf026b7c485bc9a38ae6e732db0569ac6d3dc81.jpg",
+                "paste-fc3ac8d358ea087cd382e44d349c90617a9a1151.jpg"
+            ],
+            "name": "Árboles Nativos",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::<i>Araucaria araucana</i>}}, {{c1::Araucaria, Pehuén}}",
+                        "<img src=\"paste-6124bf3c2fe2c9124cbe3575615775c855298ebb.jpg\">,<img src=\"blog-06.jpg\">,&nbsp;<img src=\"Araucaria-araucana-Araucaria-BFica-1024x768.jpg\">,&nbsp;<img src=\"araucaria_004.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "L(AcHH62(V",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::Austrocedrus chilensis}}, {{c1::Cipres de la Cordillera, Len}}",
+                        "<img src=\"paste-73e5458834ac981555f6e2987705fddef71e11d8.jpg\">,<img src=\"Cipres-de-la-Cordillera.jpg\">,&nbsp;<img src=\"CipresCordillera1.2-1_.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "o#%q(cB!}m",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Fitzroya cupressoides}}, {{c2::Alerce, Lahuán, Lawén}}",
+                        ",&nbsp;<img src=\"paste-771e7ba5edc7db6ae86dd2e971b1eec1b78e0e61.jpg\">,&nbsp;<img src=\"paste-b2d7ce53ae78f5c228ba1e12384e8800ee8e4b2b.jpg\">,<img src=\"2868-alerce1@2x.jpg\">,&nbsp;<img src=\"paste-25d35d96cf471403c0fbb798998b0144946ee096.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "OIR7yjtMu1",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Pilgerodendron uviferum</i>}}, {{c2::Cipres de las Guaitecas}}",
+                        "<img src=\"paste-14817eed5c216cebea7270e75b57adc19ae7ca96.jpg\">,&nbsp;<img src=\"naturaleza-abh-marzo-7.jpg\">,&nbsp;<img src=\"paste-4dc771d7148ff3aa1d82fd6c8ae94475e82567e2.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "K4JH}O:WHG",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::Podocarpus saligna,}}<span style=\"color: rgb(77, 81, 86);\"><i>&nbsp;</i></span>{{c1::Mañio, Mañio de hojas largas}}",
+                        "<img src=\"DZBCC3OW4AAKqWo.jpg\">,&nbsp;<img src=\"paste-3db1bfc9b9a192f8aba806d1e5613d4986130926.jpg\">,&nbsp;<img src=\"paste-7043f3662585286f64c9b9b3ef63ac104eac3155.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "cQdWA`O&x>",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::Podocarpus nubigena}}, {{c1::Mañio macho, Mañio de hojas punzantes, Hulililahuan}}",
+                        "<img src=\"Mañio-hojas-punzantes_Conos-femeninos-Carlos-Le-Quesne.jpg\">,<img src=\"paste-06a35abe79f7d8d90354e515db5dc9266a6d3d22.jpg\">,&nbsp;<img src=\"Podocarpus_nubigena-flores.JPG\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "B:1h!mMk>n",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Prumnipitys andina}}, {{c2::Lleuque, Uva de Cordillera}}",
+                        "<img src=\"paste-10cb7880a10d395413917e69ebd31c919ed8b370.jpg\">,<img src=\"paste-dc07b4f4b0c320b3d5b3734604bce375e1e1a765.jpg\">,&nbsp;<img src=\"paste-2d1df785c9ca32cc0a7d68f4881d0ef7cc2b6b6c.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "xL_EcgD`Nm",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Saxegothaea conspicua,}}&nbsp;{{c2::Mañio de hojas cortas, Mañio hembra, Lleuque}}",
+                        "<img src=\"250px-Saxegothea_conspicua_3.jpg\">,&nbsp;<img src=\"IMG_20200518_194448.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "n1;(^>,^<B",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Acacia caven}}, {{c2::Espino, Churqui}}",
+                        "<img src=\"paste-5510f85022a7c61eb7eb5b99608b3b2488281dac.jpg\">,&nbsp;<img src=\"paste-0bea1822c679237db519c620a15e268964cfd707.jpg\">,&nbsp;<img src=\"220px-Acacia_caven_5.jpg\">,&nbsp;<img src=\"paste-f30d9b4e0bacc9ffc5f132411f931567d74e1a93.jpg\">,&nbsp;<img src=\"5147796800_12b80e3880_b.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "fyC3(W%azC",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::Jubaea chilensis,&nbsp;}}{{c1::Palma Chilena, Can-can}}",
+                        "<img src=\"paste-049fc104cfae067fb067e578671f87de775184b1.jpg\">,<img src=\"paste-e779790407412df6a2e484d6ca43bef27f5031bd.jpg\">,<img src=\"paste-0c851835e4214b35f7e563118f2b78363e30a692.jpg\">,&nbsp;<img src=\"paste-d3ccc214180e8459e0d81ec44fb881d919d99ce1.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "AV*^RISC/8",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Prosopis chilensis</i><span style=\"color: rgb(32, 33, 34);\">, </span>}}{{c2::<span style=\"color: rgb(32, 33, 34);\">A</span>lgarrobo chileno}}",
+                        "<img src=\"paste-1d6a8bec3c71b2cd691ccbc76126adcd9c51a7b9.jpg\">,&nbsp;<img src=\"paste-1c2644c4e27cd55ba29b74279691ac9ece5828f8.jpg\">,&nbsp;<img src=\"paste-be8f592cb4ade32cccd550460f74fdae3501ff74.jpg\">,&nbsp;<img src=\"paste-826f20f6a672909b496f1afb2a5a54b15f509548.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "HyNmTsh<B",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::Prosopis tamarugo,}} {{c1::Tamarugo}}",
+                        "<img src=\"paste-81369a6074fd2c5079719928345c767b4702bc2d.jpg\">,&nbsp;<img src=\"paste-ca32a4762562fc6171cc4d2196c6eb66aeab5278.jpg\">,&nbsp;<img src=\"paste-0de23142490f3d071350373b802df29c75789a03.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "v(I-}T$N?x",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::<i>Schinus molle</i><font color=\"#202122\"><i>,&nbsp;</i></font>}}{{c1::Pimiento}}",
+                        "<img src=\"paste-e0835dc80e9b775684fdb2a92bdee0575cb1cd1a.jpg\">,&nbsp;<img src=\"paste-6a0fda28ad331e8677b0281fe310377958821fed.jpg\">,&nbsp;<img src=\"paste-086a793f18b6f8b9104b10e80763fcb3a801eb11.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "I30)QqzT(G",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Sophora cassioides<font color=\"#202122\">,</font>}}<i><font color=\"#202122\" style=\"\">&nbsp;</font></i><span style=\"color: rgb(32, 33, 34);\">&nbsp;</span>{{c2::<span style=\"color: rgb(32, 33, 34);\">P</span>elú<span style=\"color: rgb(32, 33, 34);\">&nbsp;o P</span>ilo<span style=\"color: rgb(32, 33, 34);\">&nbsp;</span>}}",
+                        "<img src=\"paste-2392a6365445476a20f1a3f50f02bd07fd0f4ad6.jpg\">,&nbsp;<img src=\"paste-a2d65aa57d5df01327790f8e674c09560308fb73.jpg\">,&nbsp;<img src=\"paste-30169af274010de108dd38ea47e02ffc0f22aa04.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "u,+i^c$tTv",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Weinmannia trichosperma</i>}}, {{c2::Tineo<span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span>tenío<span style=\"color: rgb(32, 33, 34);\">&nbsp;o&nbsp;</span>palo santo}} {{c3::Weinmannia trichosperma}}",
+                        "<img src=\"paste-dc9e2f291dae666fee9b177911e8ce172a63a778.jpg\">,<img src=\"paste-87fa57bba8769b184c7cf67b41c4d7eeb7a72cf1.jpg\">,&nbsp;<img src=\"paste-22ef119e9f9e4d4a85477e89755f87b182f2789a.jpg\">,&nbsp;<img src=\"paste-1ea4e858b0b8b47a85fdc8d861dd00053c463733.jpg\">,&nbsp;<img src=\"paste-2b0d51f83182fd34fe50fd72480041dd7fe87b8b.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ON4g%;W{dj",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Gevuina avellana}}<i>,&nbsp;</i>{{c2::avellano, gebuin, nebu}}",
+                        "<img src=\"paste-d6edac69708c4f609347b405f576208c770bb95d.jpg\">,<img src=\"paste-a2e9dd21507e12a2bc13a8345c30f9eafba25c4b.jpg\">,&nbsp;<img src=\"paste-bf596e688610eebebdbda4968a1839ac6597d374.jpg\">,&nbsp;<img src=\"paste-8ef2e26dfd0ca2433931ffea00f1384d5ac8c393.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "wl,r|`%_Op",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Dasyphyllum diacanthoides}}, {{c2::Palo santo, Tayú}}<br>",
+                        "<img src=\"paste-4256e508ecb16181d0b8a61cc093626c65d5ac81.jpg\">,&nbsp;<img src=\"paste-ae1028def0c7f657f7c4b3c35af61f0ab22ddb08.jpg\">,&nbsp;<img src=\"paste-acd555bd2184e2ebc09cf7563b86412241a45f82.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "B9(R%eqq5]",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Citronella mucronata,}} {{c2::Naranjillo, Huillipatagua o Pataguilla}}",
+                        "<img src=\"paste-82e40fe9066c21c6fbda7ff0a2cb0fe4537b79da.jpg\">,&nbsp;<img src=\"paste-967bf67f960fb517f0351259590cb904f2ddd64d.jpg\">,&nbsp;<img src=\"paste-57726164704b7ef2721e7c3472aa8f4a690f013a.jpg\">,&nbsp;<img src=\"paste-186c06f0193e2211ee26e83d9ee9577a38d72157.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dy<N0@,|F2",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Aextoxicom punctatum}}, {{c2::Olivillo o Tique}}",
+                        "<img src=\"paste-161faec128273137d17b19dbe484cf4c9db02bfb.jpg\">,&nbsp;<img src=\"paste-5c2645408ec4432dde67392050505c59565f0dc4.jpg\">,&nbsp;<img src=\"paste-9303705ddcc786dd6c5470357550fbd943b55554.jpg\">,&nbsp;<img src=\"paste-5724537deba2aee16f4602f25123b0b5dd6f3d11.jpg\">,&nbsp;<img src=\"paste-6a21390f3bfbc952c31bacc441a7cd9f74498b3a.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "cE%AjQuS|<",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Persea lingue</i>}}, {{c2::Lingue}}",
+                        "<img src=\"paste-5f88d787a68a270eb1d90ca8522096199a200369.jpg\">,&nbsp;<img src=\"paste-140abc26e42ecea23410d55df9d543930807ed94.jpg\">,&nbsp;<img src=\"paste-48ff72600a9dff23e286068574d0e2516b0b09a6.jpg\">,&nbsp;<img src=\"paste-d9c5635f3d485b2d13e40195704756dffdb4335a.jpg\">,&nbsp;<img src=\"paste-0f2dce1d0e67f52b857f00e8e4a000c7a5da5777.jpg\">,&nbsp;<img src=\"paste-b89caa51e39a43d0cdf9fe01691e7aab9cb346f9.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ij.<JnqBS4",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Drimys winteri}}, {{c2::Canelo o Foique}}",
+                        "<img src=\"paste-8be3385791abde14c725ce4da716c2d310f366bd.jpg\">,&nbsp;<img src=\"paste-9ae2c9be3f5e1d440289facfc46ab220e5f2fa5d.jpg\">,&nbsp;<img src=\"paste-a8058a809b1f03b13219ef77f8dccfecd9b7a069.jpg\">,&nbsp;<img src=\"paste-cb6f3406878aa123539d4932ce7b1768f918c563.jpg\">,&nbsp;<img src=\"paste-24d446654a72b268b1cf7039918734f14e687f85.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "h96=ZJ:J?O",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Ebothrium coccineum}}, {{c2::Notro o Ciruelillo}}",
+                        "<img src=\"paste-4e1c4be5c1f290bf1add37f78f94617f32e3f0c5.jpg\">,&nbsp;<img src=\"paste-292df98fe4a2d524842e095b20a175353f53e7fd.jpg\">,&nbsp;<img src=\"paste-e0f6f00434762c6fd06e8d7f8a4e733a01805080.jpg\">,&nbsp;<img src=\"paste-b8c2c373342a57e157e0d000b5dd9f6c32b7631a.jpg\">,&nbsp;<img src=\"paste-2269b42374bed82b40ccca0896d20b4e5840db59.jpg\">,&nbsp;<img src=\"paste-bf25947087bd33878079d1e3f46d355addefcfd0.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "j]gvx2dr|v",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Quillaja saponaria</i>,}}&nbsp;{{c2::Quillay, Küllay}}",
+                        "<img src=\"paste-21f5d133e7bfcecdf146d8ccec08323a77ce06bd.jpg\">,&nbsp;<img src=\"paste-5b32c551a8d1d74d7f580316e941f344934ab166.jpg\">,&nbsp;<img src=\"paste-3f0b13fbda44469280fc449747fbfac52c2dd5e7.jpg\">,&nbsp;<img src=\"paste-646b7c90714a1f03a039c7d65cfc3cde7b4d885a.jpg\">,&nbsp;<img src=\"paste-153273782bfd0e4451003eb15f5357fce7849c7e.jpg\">,&nbsp;<img src=\"paste-3ad7a92c0b497b8bd45b8e84d2d89f60a8134bbf.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dI*NolrYK5",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::M<i>aytenus boaria</i>}}, {{c2::Maitén}}",
+                        "<img src=\"paste-124737aceddaf405fae428607418c5690bd74acd.jpg\">,&nbsp;<img src=\"paste-4bc86eeb0d4c552e0ec0979854fdc8cf1b8872fd.jpg\">,&nbsp;<img src=\"paste-107871f53d04d0f9819b8834f3f80baba0a926ce.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "xg3UA}paDC",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Salix chilensis o Salix humboldtiana</i>}}<i>,&nbsp;</i>{{c2::Sauce chileno}}",
+                        "<img src=\"paste-c3ed5e53a3dd82c843dd551f9045250bcffefef5.jpg\">,&nbsp;&nbsp;<img src=\"paste-0e3b4c17457211ce9e3284ffafe4de9a70f9525b.jpg\">,&nbsp;<img src=\"paste-62a5003393871a53c01f459679ac7519d32d931e.jpg\">,<img src=\"paste-5b4e427c8ff1cb4b3151a88bc1a4c7792534b588.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "yix3XU5!m,",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Nothofagus nitida</i>,}}&nbsp;{{c2::Coigüe de Chiloé}}",
+                        "<img src=\"paste-21d06e5e3b3bf6ec04218b3420c15fb991c7d9af.jpg\">,&nbsp;<img src=\"paste-cf7214ab0f5cfc7c808ee8d1247c9c8abfc04ff7.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "fP8j-9*zqy",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::Nothofagus dombeyi,}}&nbsp;{{c1::Coigüe o Coihue}}",
+                        "<img src=\"paste-2470888c251d27a0dc58dd18b0276400a7d75077.jpg\">,&nbsp;<img src=\"paste-69f52f4893d7429f5cc1d651ff70a4a9a9845b64.jpg\">,&nbsp;<img src=\"paste-1d65d6bb916c662e0604ed8a3196e1d26cae1592.jpg\">,&nbsp;<img src=\"paste-39daba99dbd60e495b396b6460d026a021266e42.jpg\">,&nbsp;<img src=\"paste-e4afc059c3c7c25b98734bd25d73487a4d7507aa.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "L@/{M@-*8A",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Nothofagus betuloides</i>,}}&nbsp;{{c2::Coigüe de Magallanes, }}",
+                        "<img src=\"paste-df68379bd50dc5ecdfe099afdb624ca2eb7b6ac1.jpg\">,&nbsp;<img src=\"paste-d9aaf4009d82131eeec7ab5734ed1fba38ee370b.jpg\">,&nbsp;<img src=\"paste-8661330d9aa4cb8c51701355c202d180597cb89c.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "uL@uV[*uN{",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Nothofagus obliqua</i>}}, {{c2::Roble, Coyan, Hualle o Pellín}}",
+                        "<img src=\"paste-7fad8d95e1dabf083f89cf3384173fb0846e24a5.jpg\">,&nbsp;<img src=\"paste-07bb4de2898cd78074b803344a54eaee486aa833.jpg\">,&nbsp;<img src=\"paste-ac9017b1e82062ba974cf7a05ff51e9f9981848c.jpg\">,&nbsp;<img src=\"paste-267e11d649f34cd7c7cef906ecd7e51be8cad32c.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "y|vAqik~1f",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Nothofagus antarctica}}<span style=\"color: rgba(0, 0, 0, 0.87);\"><i>,&nbsp;</i></span>{{c2::Ñire,​ ñirre o haya antártica}}",
+                        "<img src=\"paste-84c7ef1c39ec98ed3f8f51fac462e0e64785ddbf.jpg\">,<img src=\"paste-e82d95e83d81c9d6b70d17298214fbd5cf412e8f.jpg\">,&nbsp;<img src=\"paste-adcaac3242c8aeff6e9870c8a2df4ca18cd766fb.jpg\">,&nbsp;<img src=\"paste-5fa9d6af5ec10b58e30264e6c4ae7aebadc39501.jpg\">,&nbsp;<img src=\"paste-4279bf4ea1b5025eca3382fcc3436767a51dcca5.jpg\">",
+                        "",
+                        "Junto al tronco crece comunmente el liquen llamado \"Barba de abuelo\""
+                    ],
+                    "flags": 0,
+                    "guid": "L>-c`06{sg",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Nothofagus alpina (nervosa)}}, {{c2::Raulí}}",
+                        "<img src=\"paste-bea01a43ccdd782459bf3c044527b92694377037.jpg\">,&nbsp;<img src=\"paste-b7a92869528ef043768f032b687c43ff99df6793.jpg\">,&nbsp;<img src=\"paste-d70ce77e8d012f98d18ae1feb13c760503808897.jpg\"><img src=\"paste-569b376e1b6b3327fc0df2273e40e2d0fbfa57c3.jpg\">,&nbsp;<img src=\"paste-16f2ddaff404ecac19bd080f4af171a4272672b1.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "CH-2oO+):p",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Nothofagus alessandri}}<i style=\"\">, </i>{{c2::Ruil}}",
+                        "<img src=\"paste-1be5b9d608e4748e739869cef7fd451329fb0299.jpg\">,&nbsp;<img src=\"paste-32589caf8441c6b2c39a06d07e69396d50f88834.jpg\">,&nbsp;<img src=\"paste-d29c7fc22ed30c492fba5cf44e9f7e3a976147df.jpg\">,&nbsp;<img src=\"paste-066b69896f3d515990a44e7fc6ea4549f0775ac8.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "N~XOooqI_U",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div>{{c2::Kageneckia oblonga,}} {{c1::Bollén o Huayo}}</div>",
+                        "<img src=\"paste-2cd171b84cc8ebf5c494ab1cefa95d09ba893bf1.jpg\">,&nbsp;<img src=\"paste-0e1c03576e216ecff5aac40690b69d12b9e36c36.jpg\">,&nbsp;<img src=\"paste-61248f43981cdd1e583019745e941ec0368d614f.jpg\">,&nbsp;<img src=\"paste-31790fda5ad0cd0d5f547d7e2032b58110ee1511.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ADSE]dhg>V",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Kageneckia angustifolia}}, {{c2::Frangel, Pulpica}}<br>",
+                        "<img src=\"paste-62725385271034e51021b51f200ee6cff71b1300.jpg\">,&nbsp;<img src=\"paste-a8cdbe7d402d4006726e4a737440fc2688edcff5.jpg\">,&nbsp;<img src=\"paste-9cc80ae22c1c131ebb2f7378977b08b84427c068.jpg\">,&nbsp;<img src=\"paste-380aad532332feff8e733441294ea278a5b19f40.jpg\">,&nbsp;<img src=\"paste-cf24da58df90789fda70dd72554446b992e85dd8.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "D&fgiO+C8=",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Schinus latifolius</i>}} , {{c2::Molle o Litre-Molle}}<br>",
+                        "<img src=\"paste-e177083348f5bb0a378989db7e354dd40eff511b.jpg\">,&nbsp;<img src=\"paste-bf19fd69f65e633ac756053d21e4b53e532a73fa.jpg\">,&nbsp;<img src=\"paste-2377870ea8ea9c9abca2161b81260152d0445394.jpg\">,&nbsp;<img src=\"paste-6b518b0eb6888475c0bf89090b1b8d53f7984e1c.jpg\">,&nbsp;<img src=\"paste-b9e1d058a068e527d25d4538e1251106c5154e2e.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "N*|C753bWX",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Lomatia hirsuta</i>}}&nbsp;<i>,&nbsp;</i>{{c2::Radal, Raral, Nogal silvestre}}",
+                        "<img src=\"paste-6fdf28f750e5d322d09af858b540c308fc4d82ff.jpg\">,&nbsp;<img src=\"paste-596732df1b305c0eb2e2da180f56a2359e32fcc4.jpg\">,&nbsp;<img src=\"paste-bc46f9a773399828d611561f39b80c1fdbadadbd.jpg\">,&nbsp;<img src=\"paste-cb8e094fc425c3b0525cbf19bf388c7d794ebd5a.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "QiJXMI>4[v",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Nothofagus pumilio</i>}}, {{c2::Lenga o Roble de Tierra del Fuego, Haya austral, Roble blanco}}<br>",
+                        "<img src=\"paste-f03a027338dafcdaebf83bab1257c70f0451d02c.jpg\">,&nbsp;<img src=\"paste-cd09307573fbb2f232cb2bb02048067f0433c9f7.jpg\">,&nbsp;<img src=\"paste-cc1caf1c76846a762bd9b0c2e05aeee40fbddbba.jpg\">,&nbsp;<img src=\"paste-4ff747d0c107188a48138469a8c239f7de0f0a41.jpg\">",
+                        "",
+                        "Corteza vieja es rugosa"
+                    ],
+                    "flags": 0,
+                    "guid": "rZ]nux[Z.6",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Nothofagus glauca</i>}}<span style=\"color: rgb(34, 34, 34);\">,&nbsp;</span>{{c2::Hualo, roble colorado, Roble Maulino}}",
+                        "<img src=\"paste-3d8e5c2ebe372469f1e3140734029398f469b1a1.jpg\">,&nbsp;<img src=\"paste-8b264683c7445f7d6979aff9fe8a50b26ee49a0d.jpg\">,&nbsp;<img src=\"paste-5b0b477403646a4c5df2406626e53d5b608a5233.jpg\">,&nbsp;<img src=\"paste-3bad70289a3dc504c7f4155e1c9694e6c6e7dda2.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ukK|oSy3_b",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Peumus boldus</i>}}, {{c2::Boldo}}<br>",
+                        "<img src=\"paste-d9744d2be4cdfd240b3ab9b4902271cacb5ccfde.jpg\">,&nbsp;<img src=\"paste-2772267d92cdd5a30cb5de71ea0a4c5962566e5d.jpg\">,&nbsp;<img src=\"paste-faf026b7c485bc9a38ae6e732db0569ac6d3dc81.jpg\">,&nbsp;<img src=\"paste-d2d2603a0799d93c17fc769c6a26182848088193.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "A4o8D*ZX~,",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Cryptocarya alba</i>,}} {{c2::Peumo}}",
+                        "<img src=\"paste-5132ddc44dfad0fcd79fff4144054fc951359bc6.jpg\">,&nbsp;<img src=\"paste-4dd38613a647baaa5d79ef6d2923ef1d03cdbbcd.jpg\">,<img src=\"paste-0cd3af560ee4788ab68629e5396735f7c3aab9bc.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "l56t&s1dLd",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Beilschmiedia berteroana</i>}}<i><font color=\"#202122\" style=\"\">,&nbsp;</font></i>{{c2::Belloto o B. del sur}}",
+                        "<img src=\"paste-a03215f4d996bdbd4b82fdb2cadff56a37f386a9.jpg\">,&nbsp;<img src=\"paste-8e9e2c84636a933fca732ebf15ca36c20e81b0ff.jpg\">,&nbsp;<img src=\"paste-a07ccd978ecca6a33520dada5e9f653f80bcdc60.jpg\">,&nbsp;<img src=\"paste-b0223fb0d320eb25d407239c5493620f67d9afe4.jpg\">,&nbsp;<img src=\"paste-6f787f1c82bd189aa2c62801092e45e51b18d417.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "f%Ht26b8E>",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Gomortega keule</i>}},<em>&nbsp;</em>{{c2::Queule, Keule, Queuli}}",
+                        "<img src=\"paste-796e36cc436b671d3e828284aa7c57e80c684f09.jpg\">,&nbsp;<img src=\"paste-472e9f296e721fe3ad3946ab36fbd1551040b0ba.jpg\">,&nbsp;<img src=\"paste-840d236d23c3e00eb13a30884a9e29a37d48acfa.jpg\">,&nbsp;<img src=\"paste-89bcf9d61508d1d062cb1a3834b158e9dba15bc3.jpg\">,&nbsp;<img src=\"paste-9357f0c483d61658cc855f0b8216638015d4c173.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "fBwo(AN@=j",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Luma apiculata</i>}}, {{c2::Arrayán, arrayán rojo,​ arrayán chileno o palo colorado}}",
+                        "<img src=\"paste-843485cbecf2919c9c846cf0e5b64f7afeb7b1c2.jpg\">,&nbsp;<img src=\"paste-c5208597ad253c8fd7bedfc4fb8f8e9b4cbb54c9.jpg\">,&nbsp;<img src=\"paste-1b339afcf4ad3fbac13ad31cf77f486cb0008d8d.jpg\">,&nbsp;<img src=\"paste-e5a917c8fea041ca67a715a1c456e83f8412a399.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "cpHCTwXX6U",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Myrceugenia exsucca</i>}} {{c2::Petra,&nbsp;pitrilla,&nbsp;pitra,&nbsp;patagua}}",
+                        "<img src=\"paste-1a3a34b11795e02c4f9fd8fc83079637da6d5bf0.jpg\">,&nbsp;<img src=\"paste-e6c0c79466075217cb22024f6e02060fd7101055.jpg\">,&nbsp;<img src=\"paste-ecb76a37ed12ed56f62182898e42c7dbadec610c.jpg\">,&nbsp;<img src=\"paste-f86b8c7d3843c07ef934faee68e4fecf141b93ec.jpg\">,&nbsp;<img src=\"paste-f674cedb48f0bd9786bdb82440017af490ea8e6f.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "t:eu?p%p+x",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Amomyrtus luma</i>}}, {{c2::La&nbsp;luma&nbsp;o&nbsp;luma colorada}}",
+                        "<img src=\"paste-64113c4db37852f2b73dbbb6d43971d8e547b167.jpg\">,&nbsp;<img src=\"paste-fc3ac8d358ea087cd382e44d349c90617a9a1151.jpg\">,&nbsp;<img src=\"paste-0f82be8ad74322fca5aeb8c06d6965ce17fd5c76.jpg\">,&nbsp;<img src=\"paste-1d069f66c526d110982425f87f5b9806d05957c6.jpg\">,&nbsp;<img src=\"paste-bdeec9475086681ca45f4bc4c09610b58e8d3e0a.jpg\">,&nbsp;<img src=\"paste-d8e0fec4f166cf1869a36d812ce904b2a27c58e8.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "g>^E)JJoiq",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Amomyrtus meli</i>}}, {{c2::Melí&nbsp;o&nbsp;luma blanca}}",
+                        "<img src=\"paste-5876f41f409b6529a2de801fb66f755cb9f2f134.jpg\">,&nbsp;<img src=\"paste-c4b8ba2f3606f554bd2de3d73abf12b11d3f1a16.jpg\">,&nbsp;<img src=\"paste-08cc45465adc39cbd9692427ef7cfa828f14e100.jpg\">,&nbsp;<img src=\"paste-71817055a3aa242dfae81259c344cc55f7d2e3d3.jpg\">,&nbsp;<img src=\"paste-b6883bc84b6a50a7f9ac0050b2194be93ab8a095.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "D6K3>Nk#wP",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Crinodendron patagua</i>}}, {{c2::Patagua&nbsp;o&nbsp;patahua&nbsp;}}",
+                        "<img src=\"paste-e65031a8d87bfff591049d863692e5e4906499a6.jpg\">,&nbsp;<img src=\"paste-bd8a1c7a6059bb00499269a7c1179c5da9836872.jpg\">,&nbsp;<img src=\"paste-648bc30e44dc808f6e5bc1e2c6c360b5c6d090dd.jpg\">,&nbsp;<img src=\"paste-423ff5d49a49fc90883ff8519af44e5adf74f39d.jpg\">,&nbsp;<img src=\"paste-bd0deb186731d8162e44831e9302d799b72e940b.jpg\">,&nbsp;<img src=\"paste-189585737f64e059cb5556388934c7a43771dfef.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "yny,U!eqyK",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Laurelia sempervirens</i>}}, {{c2::Laurel chileno, <i>triwe</i>}}",
+                        "<img src=\"paste-bb792c77584546f155dbc64163d050f8a5564b05.jpg\">,&nbsp;<img src=\"paste-40854eaadc98124d24764f88b985efa36168775d.jpg\">,&nbsp;,&nbsp;<img src=\"paste-18daa4a967994c2bfe60224c3e9c5336c9351e8f.jpg\">,&nbsp;<img src=\"paste-8bd503f8d48acc835bfd249c231e6979abb3a21d.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "bHrGq*KgNU",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Laureliopsis philippiana</i>,}}<i>&nbsp;</i>{{c2::Tepa<span style=\"color: rgb(32, 33, 34);\">&nbsp;</span><span style=\"color: rgb(32, 33, 34);\">o&nbsp;</span>huahuán}}",
+                        "<img src=\"paste-6f823755d252c30779575226d18b784402708fbf.jpg\">,&nbsp;<img src=\"paste-99b9750532a34672f2e1a5c03ef788585de9575e.jpg\">,&nbsp;<img src=\"paste-291204df40fa4e85aa95af7e031eff248dbfd59a.jpg\">,&nbsp;<img src=\"paste-e59a2c6f89a502a72beb8af6670e5490f62a6ee1.jpg\">,&nbsp;<img src=\"paste-ed84bf1b37bd413b4aca45eb1aac06931684d727.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "zE7`>m`~lj",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Caldcluvia paniculata</i>}}, {{c2::Tiaca&nbsp;o&nbsp;quiaca}}",
+                        "<img src=\"paste-f8b42d68433cbd2b90617db2c367da9500ab0fc5.jpg\">,&nbsp;<img src=\"paste-008398d3d4c89ccfba3f785082d2ef1436d42b37.jpg\">,&nbsp;<img src=\"paste-7b842532306987dbc044957faab30c31664d737c.jpg\">,&nbsp;<img src=\"paste-46505825b2f7bcc14ded3d3148cd63c832cba26e.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "gK7f=<eCsl",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::<i>Eucryphia cordifolia</i>}}, {{c2::Ulmo, Roble de Chiloé, muermo&nbsp;}}",
+                        "<img src=\"paste-9088542495135ec7f9c640bf84c1a6a5a840c5b8.jpg\">,&nbsp;<img src=\"paste-492f8e481f853ef36c5dd74daece190c847e612b.jpg\">,&nbsp;<img src=\"paste-899bbd1e3ba2936259a287d75229bc709dc5eea1.jpg\">,&nbsp;<img src=\"paste-a3e7a282d8a88267d12fd55dfad3f57f13f58d86.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "fGr8T4^,f+",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "546cb230-ab8d-11ea-89a6-10ddb19ecdf1",
+            "deck_config_uuid": "56793b42-ab8e-11ea-89a6-10ddb19ecdf1",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "1024px-Fascicularia_bicolor_(hozdiamant)_001.jpg",
+                "fascicularia-bicolor-03.jpg"
+            ],
+            "mid": "1590197622330",
+            "name": "Plantas Nativas",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c2::<i>Fascicularia bicolor</i>}}<span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span>{{c1::chupalla<span style=\"color: rgb(32, 33, 34);\">&nbsp;o&nbsp;</span>achupalla}}",
+                        "<img src=\"1024px-Fascicularia_bicolor_(hozdiamant)_001.jpg\">,&nbsp;<img src=\"fascicularia-bicolor-03.jpg\">",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "wr.D6mj:s,",
+                    "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "5677bbc8-ab8e-11ea-89a6-10ddb19ecdf1",
+    "deck_config_uuid": "5677c762-ab8e-11ea-89a6-10ddb19ecdf1",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "5677c762-ab8e-11ea-89a6-10ddb19ecdf1",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Predeterminado",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    15.0,
+                    240.0,
+                    1440.0,
+                    4320.0,
+                    8640.0,
+                    17280.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    24,
+                    12,
+                    7
+                ],
+                "order": 1,
+                "perDay": 12
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "5677f598-ab8e-11ea-89a6-10ddb19ecdf1",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Predeterminado",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    15.0,
+                    240.0,
+                    1440.0,
+                    4320.0,
+                    8640.0,
+                    17280.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    24,
+                    12,
+                    7
+                ],
+                "order": 1,
+                "perDay": 12
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "56793b42-ab8e-11ea-89a6-10ddb19ecdf1",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Predeterminado",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    15.0,
+                    240.0,
+                    1440.0,
+                    4320.0,
+                    8640.0,
+                    17280.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    24,
+                    12,
+                    7
+                ],
+                "order": 1,
+                "perDay": 12
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "1024px-Fascicularia_bicolor_(hozdiamant)_001.jpg",
+        "fascicularia-bicolor-03.jpg",
+        "paste-1ea4e858b0b8b47a85fdc8d861dd00053c463733.jpg",
+        "paste-22ef119e9f9e4d4a85477e89755f87b182f2789a.jpg",
+        "paste-2b0d51f83182fd34fe50fd72480041dd7fe87b8b.jpg",
+        "paste-87fa57bba8769b184c7cf67b41c4d7eeb7a72cf1.jpg",
+        "paste-dc9e2f291dae666fee9b177911e8ce172a63a778.jpg"
+    ],
+    "mid": 1590197622330,
+    "name": "Plantas",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n\n\n<script type=\"text/javascript\">\nvar images = \"{{Image}}\".split(\",\");\nvar randomImageIndex = Math.floor(Math.random() * images.length); // gives a number between 0 and images.length-1\nvar randomImage = images[randomImageIndex];\ndocument.write(\"<img src='\" + randomImage + \"'/>\");\n</script>",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Nombre",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sonido",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Notas",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Plantas y Ánimales",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1,
+                        3
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                ""
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Nombre}} \n\n<br>\n{{Image}}\n<br>\n\n{{#Notas}} \n{{Notas}}\n{{/Notas}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Nombre}}\n<br>\n\n{{random:Image}}\n\n<br>\n{{#Notas}} \n{{Notas}}\n{{/Notas}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::<i>Fascicularia bicolor</i>}}<span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span>{{c1::chupalla<span style=\"color: rgb(32, 33, 34);\">&nbsp;o&nbsp;</span>achupalla}}",
+                "<img src=\"1024px-Fascicularia_bicolor_(hozdiamant)_001.jpg\">,&nbsp;<img src=\"fascicularia-bicolor-03.jpg\">",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wr.D6mj:s,",
+            "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::<i>Weinmannia trichosperma</i>}}, {{c2::Tineo<span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span>tenío<span style=\"color: rgb(32, 33, 34);\">&nbsp;o&nbsp;</span>palo santo}} {{c3::Weinmannia trichosperma}}",
+                "<img src=\"paste-dc9e2f291dae666fee9b177911e8ce172a63a778.jpg\">,<img src=\"paste-87fa57bba8769b184c7cf67b41c4d7eeb7a72cf1.jpg\">,&nbsp;<img src=\"paste-22ef119e9f9e4d4a85477e89755f87b182f2789a.jpg\">,&nbsp;<img src=\"paste-1ea4e858b0b8b47a85fdc8d861dd00053c463733.jpg\">,&nbsp;<img src=\"paste-2b0d51f83182fd34fe50fd72480041dd7fe87b8b.jpg\">",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ON4g%;W{dj",
+            "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::<i>Weinmannia trichosperma</i>}}, {{c2::Tineo<span style=\"color: rgb(32, 33, 34);\">,&nbsp;</span>tenío<span style=\"color: rgb(32, 33, 34);\">&nbsp;o&nbsp;</span>palo santo}}&nbsp;",
+                "<img src=\"paste-dc9e2f291dae666fee9b177911e8ce172a63a778.jpg\">,<img src=\"paste-87fa57bba8769b184c7cf67b41c4d7eeb7a72cf1.jpg\">,&nbsp;<img src=\"paste-22ef119e9f9e4d4a85477e89755f87b182f2789a.jpg\">,&nbsp;<img src=\"paste-1ea4e858b0b8b47a85fdc8d861dd00053c463733.jpg\">,&nbsp;<img src=\"paste-2b0d51f83182fd34fe50fd72480041dd7fe87b8b.jpg\">",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xgL=OG<gwJ",
+            "note_model_uuid": "50699db0-ab8d-11ea-89a6-10ddb19ecdf1",
+            "tags": []
+        }
+    ]
+}
